@@ -4,14 +4,7 @@ const port = 3003;
 const middleware = require('./middleware')
 const path = require('path')
 const bodyParser = require("body-parser")
-const mongoose = require("mongoose");
-mongoose.connect("mongodb+srv://pecConnect:<DefXyz>@pecconnect.mc4z4fg.mongodb.net/?retryWrites=true&w=majority")
-.then(() => {
-    console.log("database connection successful");
-})
-.catch((err) => {
-    console.log("database connection error " + err);
-})
+const mongoose = require("./database");
 
 const server = app.listen(port, () => console.log("Server listening on port " + port));
 
