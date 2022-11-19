@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "bcrypt": "^5.1.0",
+    "express-sessions": "^1.0.6",
     "mongobd": "^0.0.1-security.0",
     "mongoose": "^6.7.2"
   }
