@@ -15,3 +15,4 @@
 ## Usage
 <li> peConnect is to be used by each and every member of PEC so that they can communicate and discuss various ideas and concepts and learn about their interests</li>
 <li> Direct communication with all PEC members ad no hassle to share everywhere</li>
+<li> Junior-senior relations directly are formed due to one custom platform for PEC members.
