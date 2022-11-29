@@ -8,6 +8,16 @@
 <li>We have used socket.io to implement chat feature</li>
 <li>We have used Pug which is a template engine that allows us to inject data and then produce HTML</li>
 
+## How to use
+<li>Register in using an email id</li>
+<li>Write any message you like on messsage section in home page</li>
+<li>You can view, repost, like, reply on others posts</li>
+<li>You can search Posts and users and follow then throught this page.</li>
+<li>You can see your notifications on the notifications page and mark  them as read using double tick button on top right</li>
+<li> You can create chats and groups using inbox area. create chats or groups using plus button on top right</li>
+<li>Lastly on your profile section you can set your profile photo and background image, see your followers and following and see your posts, reposts and replies.</li>
+<li>you can logout using Logout button</li>
+
 ## Things to remember
 <li>Due to security reasons of PEC wifi , the Webpage is not able to connect with MonggoDb</li>
 <li>So Please connect to personal network </li>
@@ -26,7 +36,4 @@
 <li> Collaboration : Divyam Agrawal</li>
 <li> State Chart : Nitin Singla </li>
 
-## How to use
-<li>Register in using an email id<</li>
-<li>Write any message you like on messsage section in home page</li>
-<li>You can view, repost, like, reply on others posts</li>
+
