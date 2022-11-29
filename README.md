@@ -1,4 +1,5 @@
 # peConnect - Social Networking webite for PEC
+### Buit by Divyam Agrawal(20103888), Nitin Singla(20103098), Aryan(20103083), Dhruv Garg(20103090)
 
 #### peConnect is a social networking website that is custom made to tackle the requiremens of the PEC member and their needs from a social networking website as a student, faculty, official. peConnect provides an custom made platform for PEC members to communicate their ideas and share important events that can effect all or any subset of our society!
 
