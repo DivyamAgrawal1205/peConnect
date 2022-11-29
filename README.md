@@ -26,3 +26,5 @@
 <li> Collaboration : Divyam Agrawal</li>
 <li> State Chart : Nitin Singla </li>
 
+## How to use
+<ol> sign in using an email id</ol>
