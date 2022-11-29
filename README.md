@@ -27,4 +27,6 @@
 <li> State Chart : Nitin Singla </li>
 
 ## How to use
-<li><ol> sign in using an email id</ol></li>
+<li>Register in using an email id<</li>
+<li>Write any message you like on messsage section in home page</li>
+<li>You can view, repost, like, reply on others posts</li>
