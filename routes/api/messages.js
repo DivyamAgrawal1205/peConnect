@@ -10,6 +10,7 @@ const Notification = require('../../schemas/NotificationSchema');
 
 app.use(bodyParser.urlencoded({ extended: false }));
 
+
 router.post("/", async (req, res, next) => {
     if(!req.body.content || !req.body.chatId) {
         console.log("Invalid data passed into request");
