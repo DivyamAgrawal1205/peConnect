@@ -7,6 +7,7 @@ const mongoose = require('mongoose');
 const User = require('../schemas/UserSchema');
 const Chat = require('../schemas/ChatSchema');
 
+
 router.get("/", (req, res, next) => {
     res.status(200).render("notificationsPage", {
         pageTitle: "Notifications",
@@ -14,5 +15,6 @@ router.get("/", (req, res, next) => {
         userLoggedInJs: JSON.stringify(req.session.user)
     });
 })
+
 
 module.exports = router;
