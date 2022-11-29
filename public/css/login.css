@@ -2,11 +2,13 @@ body {
     background-color: #0099ff;
 }
 
+
 .wrapper {
     display: flex;
     justify-content: center;
     margin-top: 20px;
 }
+
 
 .loginContainer {
     padding: 20px;
@@ -20,10 +22,12 @@ body {
     -moz-box-shadow: 0 1px 4px rgba(0,0,0,0.3);
 }
 
+
 form {
     display: flex;
     flex-direction: column;
 }
+
 
 input[type="text"],
 input[type="email"],
@@ -35,6 +39,7 @@ input[type="password"] {
     background-color: #f2f2f2;
 }
 
+
 input[type="submit"] {
     background-color: #0099ff;
     color: #fff;
@@ -42,3 +47,4 @@ input[type="submit"] {
     border-radius: 2px;
     margin-bottom: 10px;
 }
+
