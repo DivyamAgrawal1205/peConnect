@@ -1,3 +1,4 @@
+// App page - The starting of whole project
 const express = require('express');
 const app = express();
 const port = 3003;
