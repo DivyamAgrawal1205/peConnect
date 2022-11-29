@@ -4,6 +4,6 @@
 
 ## Implementation
 <li>We have used MongoDB as our NoSQL database to  store user info and chats</li>
-<li>We have used socket.io to implement chat feature</li>
+<li>We have used socket.io to implement chat feature and building peer to peer communication</li>
 <li>We have used Pug which is a template engine that allows us to inject data and then produce HTML</li>
 
