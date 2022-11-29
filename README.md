@@ -1,3 +1,2 @@
-# peConnect
-<b> Social Networking webite for PEC students </b><br>
-<b> App for interaction</b>
+# peConnect - Social Networking webite for PEC
+### peConnect is a social networking website that is custom made to tackle the requiremens of the PEC member and their needs from a social networking website as a student, faculty, official. peConnect provides an custom made platform for PEC members to communicate their ideas and share important events that can effect all or any subset of our society!
