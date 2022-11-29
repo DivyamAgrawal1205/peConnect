@@ -26,12 +26,9 @@ html, body {
     height: 50px;
     width: 50px;
 }
-
-
 ul {
     margin: 0;
 }
-
 
 * {
     outline: none !important;
